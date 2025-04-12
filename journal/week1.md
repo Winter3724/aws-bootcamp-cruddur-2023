@@ -20,6 +20,8 @@
 
 - Snyk OpenSource Security - free tool for scanning container images.
 - AWS Inspector and Clair can also scan images.
+
+- Use OpenAPI website as a resource for creating openapi.yml files to define the backend API.
   
 
 
